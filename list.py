@@ -1,0 +1,9 @@
+studentid=[1,2,3,4,5]
+studentnickname=["mhooham",'chawin',"parn","po","guyyyy"]
+studentname=["piyapach","chawin",'parn','pankan','tinwarat']
+print('id','nickname','name','','lenght',sep = '\t') 
+print(studentid[0] ,studentnickname[0],'',studentname[0],len(studentname[0]),sep = '\t')
+print(studentid[1] ,studentnickname[1],'',studentname[1],'',len(studentname[1]),sep = '\t')
+print(studentid[2] ,studentnickname[2],'',studentname[2],'',len(studentname[2]),sep = '\t')
+print(studentid[3] ,studentnickname[3],'',studentname[3],'',len(studentname[3]),sep = '\t')
+print(studentid[4] ,studentnickname[4],'',studentname[4],len(studentname[4]),sep = '\t')
